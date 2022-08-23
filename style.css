@@ -43,7 +43,7 @@ main {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    column-gap: 20%;
+    column-gap: 5%;
     align-items: center;
     row-gap: 20%;
     padding: 1% 0 2% 0;
@@ -222,7 +222,6 @@ hr {
 
     .top-player h3 {
         text-align: center;
-
     }
 
     .players {
